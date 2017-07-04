@@ -1,0 +1,8 @@
+
+node_modules/
+npm-debug.log
+bower_components/
+src/app/*.js
+src/app/*.js.map
+.DS_Store
+build/
